@@ -804,7 +804,7 @@ class _MyStatefulWidgetState3 extends State<MyStatefulWidget3> {
                     'This text summarization application summarizes the long format text to the shorter format with accurate meaning.'
                     'The application will have the separate modules of speech to text in order to convert natural language to text,'
                     'and the image to text feature which converts text in image to digital text.'
-                    'The app is build  using Deep learning techniques such as Recurrent neural networks '
+                    'The app is build  using NLP Libraries '
                     'The android application is built using android studio.',
                     style: TextStyle(
                       fontSize: 16,

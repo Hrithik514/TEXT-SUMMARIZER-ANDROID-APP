@@ -9,6 +9,8 @@ To acquire all the features the app uses the inbuilt flutter APIs and customized
 --
 The complete walkthrough of the app is explained in TextSummarizer.pdf in main branch of this repository.
 --
+The main branch contains the flutter files and the public API branch contains the files for creating public API and the API is deployed in Heroku Platform
+--
 The complete project files available in the below link.
 https://drive.google.com/drive/folders/12YinhEf_Y8UiaihnFSGWki7EeaMO5gAr?usp=share_link
 --

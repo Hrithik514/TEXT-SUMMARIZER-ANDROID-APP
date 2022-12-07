@@ -1,4 +1,4 @@
-# TEXT-SUMMARIZER---ANDROID-APP (Flutter)
+# TEXT-SUMMARIZER ANDROID-APP (Flutter)
 The text summarizer is the android application developed in dart language using android studio.
 ## FEATURES:
     1.Giving the input by typing the text or by pasting the text and summarizing it.
